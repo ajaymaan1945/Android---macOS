@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.maan.connect.app-debug-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.maan.connect.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/drawable_maan_icon.xml.flat",
+        "source": "com.maan.connect.app-main-43:/drawable/maan_icon.xml"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.maan.connect.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/xml_backup_rules.xml.flat",
+        "source": "com.maan.connect.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/xml_accessibility_service_config.xml.flat",
+        "source": "com.maan.connect.app-main-43:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.maan.connect.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/xml_file_paths.xml.flat",
+        "source": "com.maan.connect.app-main-43:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.maan.connect.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.maan.connect.app-debug-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.maan.connect.app-main-43:/xml/data_extraction_rules.xml"
+    }
+]

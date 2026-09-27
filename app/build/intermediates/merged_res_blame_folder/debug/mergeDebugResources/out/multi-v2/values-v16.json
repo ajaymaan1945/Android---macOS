@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.maan.connect.app-mergeDebugResources-39:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/ajaymann/.gradle/caches/9.4.1/transforms/3eb6778e3e254c7e494747bff4ebb620/transformed/appcompat-1.7.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAAN</string>
+    <string name="connection_channel">MAAN Connection</string>
+    <string name="connection_channel_description">Keeps the trusted MAAN device connection available.</string>
+    <string name="projection_channel">MAAN Screen Sharing</string>
+    <string name="projection_channel_description">Shows when MAAN is sharing the phone screen.</string>
+    <string name="accessibility_description">Allows MAAN to perform user-requested touch controls from the paired Mac.</string>
+</resources>

@@ -1,0 +1,489 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.material:material:1.14.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1e7f4f461e41e2f3424497a0a85a2958/transformed/material-1.14.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6d7c669ac8ce725b722ccb04f8a2dd00/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/df3413bd3c8fde500643b3bf72220e1c/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3eb6778e3e254c7e494747bff4ebb620/transformed/appcompat-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.documentfile:documentfile:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7f95783f180706ac8510ebfa84b9551f/transformed/documentfile-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3bce3a6f3b734b82596ba96c24b8552d/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/cdd0bd13914314f14a38f0c0cb1b9bbf/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1feb9aeee59f6cfc6ad38ddb45308235/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3f0edd1d3abbe42e12d60a043315dcda/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/317ebfb26e7548d6f87b897f063934cb/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3126b3f8284e59d86c866d9675a79a1d/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1f2ffd47715a5a117fc0d993e8b1b0b7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.2.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/b089aad00fe4f7dc229e228a0a235ec7/transformed/customview-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/d332383e47788a12eaa368c1a6ac91da/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/99edb0dfb03fe02bd2f7e9eb3a5ce0b2/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/0f72312ff41d79646c30adc382f6088d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/61fda4f89d832a12ad5c89467071b80e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3133019f87d10bc4614928235c18d6ee/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/4974bce8d39c30ce7cc1803bc79f15ab/transformed/activity-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.13.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6c54b716a3f24947f5389cb88b492027/transformed/activity-1.13.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/ce0c907e8c551ab7c12019fa681c4d24/transformed/graphics-shapes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6531630942c18b97bd1bed164569aeec/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77f14fc198bc28effc9891a6b408fd15/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/4c7247010f04f2f2462a9e168504ff7a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/889ae876a3383920818b4414762e1efb/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/83799029774bf8ed1f0bdf1e0ee07347/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/9252573251a151c6e97dae302ccf2248/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/99b3e1807504904b1cc1c712e409f2d1/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/fdfaa97880c1612f87c6b7df39681d83/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/5141c346d7f45dba47fdc9b36e75e199/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/51bdd49a1a4042a559ee5a05cd8361dd/transformed/core-ktx-1.18.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/b165d149a6c8937a294c622a7c8b6a4b/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/a1d9aba9bae09c572d2c9e89f2511f1b/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/8a5c51b6b76e23fac03382979d1ab7b6/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/08e76383532daee209023c9072fc2d1b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bcbd3337055d802ed6a446bfdfccb088/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/d49d41c31287b01102a3a7ca987bc393/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/d121ce36e3a8c5782a553004228d8f03/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77a48ed05f1325514378fe97a941e0fc/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2cba0b1cad7279c4dcbe27016414d9d8/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/506487b9b1469d27906cc98b37d34921/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/02b759b6150a3a486b1f7604c4ce0059/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:6:5-86
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:6:22-83
+uses-permission#android.permission.NEARBY_WIFI_DEVICES
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:7:5-125
+	android:usesPermissionFlags
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:7:76-122
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:8:5-106
+	android:maxSdkVersion
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:8:77-103
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:9:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:11:22-69
+uses-permission#android.permission.ANSWER_PHONE_CALLS
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:12:22-74
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:13:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:14:5-77
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:14:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:17:5-94
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:17:22-91
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:18:5-94
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:18:22-91
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:19:22-68
+application
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:21:5-40:19
+INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:21:5-40:19
+MERGED from [com.google.android.material:material:1.14.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1e7f4f461e41e2f3424497a0a85a2958/transformed/material-1.14.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.14.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1e7f4f461e41e2f3424497a0a85a2958/transformed/material-1.14.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6d7c669ac8ce725b722ccb04f8a2dd00/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6d7c669ac8ce725b722ccb04f8a2dd00/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/08e76383532daee209023c9072fc2d1b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/08e76383532daee209023c9072fc2d1b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77a48ed05f1325514378fe97a941e0fc/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77a48ed05f1325514378fe97a941e0fc/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:21:238-264
+	android:label
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:21:183-203
+	android:fullBackupContent
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:21:102-147
+	android:icon
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:21:148-182
+	android:allowBackup
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:21:18-44
+	android:theme
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:21:204-237
+	android:dataExtractionRules
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:21:45-101
+activity#com.maan.connect.SettingsActivity
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:22:9-79
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:22:52-76
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:22:19-51
+activity#com.maan.connect.FileBridgeActivity
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:23:9-81
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:23:54-78
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:23:19-53
+activity#com.maan.connect.PairingActivity
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:24:9-78
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:24:51-75
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:24:19-50
+provider#androidx.core.content.FileProvider
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:25:9-284
+	android:grantUriPermissions
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:25:139-173
+	android:authorities
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:25:69-113
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:25:114-138
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:25:19-68
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:25:174-273
+	android:resource
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:25:236-270
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:25:185-235
+activity#com.maan.connect.MainActivity
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:26:9-28:20
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:26:48-71
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:27:13-156
+action#android.intent.action.MAIN
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:27:28-80
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:27:36-77
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:27:80-140
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:27:90-137
+service#com.maan.connect.MacConnectionService
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:29:9-130
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:29:55-79
+	android:foregroundServiceType
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:29:80-127
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:29:18-54
+service#com.maan.connect.ScreenProjectionService
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:30:9-133
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:30:58-82
+	android:foregroundServiceType
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:30:83-130
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:30:18-57
+service#com.maan.connect.MacCallScreeningService
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:31:9-33:19
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:31:58-81
+	android:permission
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:31:82-144
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:31:18-57
+intent-filter#action:name:android.telecom.CallScreeningService
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:32:13-106
+action#android.telecom.CallScreeningService
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:32:28-90
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:32:36-87
+service#com.maan.connect.AccessibilityControlService
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:34:9-37:19
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:34:62-86
+	android:permission
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:34:87-153
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:34:18-61
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:35:13-119
+action#android.accessibilityservice.AccessibilityService
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:35:28-103
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:35:36-100
+meta-data#android.accessibilityservice
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:36:13-123
+	android:resource
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:36:68-120
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:36:24-67
+receiver#com.maan.connect.PhoneStateReceiver
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:38:9-179
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:38:54-77
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:38:19-53
+intent-filter#action:name:android.intent.action.PHONE_STATE
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:38:78-168
+action#android.intent.action.PHONE_STATE
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:38:93-152
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:38:101-149
+receiver#com.maan.connect.BootReceiver
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:39:9-266
+	android:enabled
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:39:48-70
+	android:exported
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:39:71-94
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:39:19-47
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:39:95-255
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:39:110-172
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:39:118-169
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:39:172-239
+	android:name
+		ADDED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml:39:180-236
+uses-sdk
+INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.14.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1e7f4f461e41e2f3424497a0a85a2958/transformed/material-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.14.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1e7f4f461e41e2f3424497a0a85a2958/transformed/material-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6d7c669ac8ce725b722ccb04f8a2dd00/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6d7c669ac8ce725b722ccb04f8a2dd00/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/df3413bd3c8fde500643b3bf72220e1c/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/df3413bd3c8fde500643b3bf72220e1c/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3eb6778e3e254c7e494747bff4ebb620/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3eb6778e3e254c7e494747bff4ebb620/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7f95783f180706ac8510ebfa84b9551f/transformed/documentfile-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7f95783f180706ac8510ebfa84b9551f/transformed/documentfile-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3bce3a6f3b734b82596ba96c24b8552d/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3bce3a6f3b734b82596ba96c24b8552d/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/cdd0bd13914314f14a38f0c0cb1b9bbf/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/cdd0bd13914314f14a38f0c0cb1b9bbf/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1feb9aeee59f6cfc6ad38ddb45308235/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1feb9aeee59f6cfc6ad38ddb45308235/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3f0edd1d3abbe42e12d60a043315dcda/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3f0edd1d3abbe42e12d60a043315dcda/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/317ebfb26e7548d6f87b897f063934cb/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/317ebfb26e7548d6f87b897f063934cb/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3126b3f8284e59d86c866d9675a79a1d/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3126b3f8284e59d86c866d9675a79a1d/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1f2ffd47715a5a117fc0d993e8b1b0b7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/1f2ffd47715a5a117fc0d993e8b1b0b7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.2.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/b089aad00fe4f7dc229e228a0a235ec7/transformed/customview-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.2.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/b089aad00fe4f7dc229e228a0a235ec7/transformed/customview-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/d332383e47788a12eaa368c1a6ac91da/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/d332383e47788a12eaa368c1a6ac91da/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/99edb0dfb03fe02bd2f7e9eb3a5ce0b2/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/99edb0dfb03fe02bd2f7e9eb3a5ce0b2/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/0f72312ff41d79646c30adc382f6088d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/0f72312ff41d79646c30adc382f6088d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/61fda4f89d832a12ad5c89467071b80e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/61fda4f89d832a12ad5c89467071b80e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3133019f87d10bc4614928235c18d6ee/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/3133019f87d10bc4614928235c18d6ee/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/4974bce8d39c30ce7cc1803bc79f15ab/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/4974bce8d39c30ce7cc1803bc79f15ab/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.13.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6c54b716a3f24947f5389cb88b492027/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6c54b716a3f24947f5389cb88b492027/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/ce0c907e8c551ab7c12019fa681c4d24/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/ce0c907e8c551ab7c12019fa681c4d24/transformed/graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6531630942c18b97bd1bed164569aeec/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/6531630942c18b97bd1bed164569aeec/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77f14fc198bc28effc9891a6b408fd15/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77f14fc198bc28effc9891a6b408fd15/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/4c7247010f04f2f2462a9e168504ff7a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/4c7247010f04f2f2462a9e168504ff7a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/889ae876a3383920818b4414762e1efb/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/889ae876a3383920818b4414762e1efb/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/83799029774bf8ed1f0bdf1e0ee07347/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/83799029774bf8ed1f0bdf1e0ee07347/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/9252573251a151c6e97dae302ccf2248/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/9252573251a151c6e97dae302ccf2248/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/99b3e1807504904b1cc1c712e409f2d1/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/99b3e1807504904b1cc1c712e409f2d1/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/fdfaa97880c1612f87c6b7df39681d83/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/fdfaa97880c1612f87c6b7df39681d83/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/5141c346d7f45dba47fdc9b36e75e199/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/5141c346d7f45dba47fdc9b36e75e199/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/51bdd49a1a4042a559ee5a05cd8361dd/transformed/core-ktx-1.18.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/51bdd49a1a4042a559ee5a05cd8361dd/transformed/core-ktx-1.18.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/b165d149a6c8937a294c622a7c8b6a4b/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/b165d149a6c8937a294c622a7c8b6a4b/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/a1d9aba9bae09c572d2c9e89f2511f1b/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/a1d9aba9bae09c572d2c9e89f2511f1b/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/8a5c51b6b76e23fac03382979d1ab7b6/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/8a5c51b6b76e23fac03382979d1ab7b6/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/08e76383532daee209023c9072fc2d1b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/08e76383532daee209023c9072fc2d1b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bcbd3337055d802ed6a446bfdfccb088/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bcbd3337055d802ed6a446bfdfccb088/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/d49d41c31287b01102a3a7ca987bc393/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/d49d41c31287b01102a3a7ca987bc393/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/d121ce36e3a8c5782a553004228d8f03/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/d121ce36e3a8c5782a553004228d8f03/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77a48ed05f1325514378fe97a941e0fc/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77a48ed05f1325514378fe97a941e0fc/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2cba0b1cad7279c4dcbe27016414d9d8/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2cba0b1cad7279c4dcbe27016414d9d8/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/506487b9b1469d27906cc98b37d34921/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/506487b9b1469d27906cc98b37d34921/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/02b759b6150a3a486b1f7604c4ce0059/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/02b759b6150a3a486b1f7604c4ce0059/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ajaymann/AndroidStudioProjects/Android/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77a48ed05f1325514378fe97a941e0fc/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ajaymann/.gradle/caches/9.4.1/transforms/77a48ed05f1325514378fe97a941e0fc/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/bf88007301397855347f34636d92200e/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:23:9-81
+permission#com.maan.connect.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
+uses-permission#com.maan.connect.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.18.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/aae648a71a5e6a54c9d3e204143c3052/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ajaymann/.gradle/caches/9.4.1/transforms/2142f0e10f6ee7d2fb298e76540f260c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/ajaymann/.gradle/caches/9.4.1/transforms/7fe14da90e22060692725d9dd8691ee2/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

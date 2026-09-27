@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color maan_black
+color maan_gray
+color maan_green
+color maan_white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable maan_icon
+id appSubtitle
+id appTitle
+id callServiceText
+id clipboardServiceText
+id connectionStatus
+id deviceName
+id fileBridgeButton
+id fileServiceText
+id filesButton
+id screenButton
+id settingsButton
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string accessibility_description
+string app_name
+string connection_channel
+string connection_channel_description
+string projection_channel
+string projection_channel_description
+style Theme.MAAN
+xml accessibility_service_config
+xml backup_rules
+xml data_extraction_rules
+xml file_paths
